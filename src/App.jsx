@@ -40,7 +40,7 @@ function App() {
       
 
       <ButtonCom 
-       id="nome-input" labelText="Iscriviti al nostro canale!" type="text" placeholder="inserisci il tuo nome" style2={{color:"blue"}} style3={{borderRadius:"7px",border:"none", padding:"4px", boxShadow:"2px 2px 11px"}}buttype="Submit" buttonText="Iscriviti!" style={{ backgroundColor:"grey", color:"black", border:"solid 1px gray", borderRadius:"7px", boxShadow:"2px 2px 11px", padding:"4px"}}
+       id="nome-input" labelText="Iscriviti al nostro canale!" type="text" placeholder="inserisci il tuo nome" style2={{color:"black",fontWeight:"bold", fontFamily:"italic"}} style3={{borderRadius:"7px",border:"none", padding:"4px", boxShadow:"2px 2px 11px"}}buttype="Submit" buttonText="Iscriviti!" style={{ backgroundColor:"grey", color:"black", border:"solid 1px gray", borderRadius:"7px", boxShadow:"2px 2px 11px", padding:"4px"}}
        />
 
 
