@@ -1,7 +1,3 @@
-
-
-
-
 const Main =  props => { 
     return (
 

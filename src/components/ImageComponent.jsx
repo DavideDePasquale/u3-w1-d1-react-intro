@@ -1,5 +1,5 @@
 const ImageComponent = props =>{ 
-    return( 
+    return ( 
     <>
     <h1>{props.title}
     </h1>
